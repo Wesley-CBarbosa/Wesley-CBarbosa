@@ -19,3 +19,4 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" target="_blank"></a>
 </div>
+![snake animation](https://github.com/wesley-cbarbosa/wesley-cbarbosa/blob/output/github-contribution-grid-snake.svg)
