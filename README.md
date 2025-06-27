@@ -1,6 +1,9 @@
 <h1 align='center'>
-### Olá! Bem vindo ao meu perfil.👋
-### Me chamo Wesley!
+Olá! Bem vindo ao meu perfil.👋
+</h1>
+
+<h1 align='center'>
+Me chamo Wesley!
 </h1>
 
 <div align='center'>
@@ -13,8 +16,10 @@
   <a href = 'https://github.com/Wesley-CBarbosa'>
   <img height='190em' src='https://github-readme-stats.vercel.app/api?username=wesley-cbarbosa&show_icons=true&theme=vue&include_all_commits=true&count_private=true'/>
 </div>
-
-**Estou me tornando um Analista de Dados. Entrei nesse mundo da tecnologia por acaso. Porém, quanto mais eu estudo e aprendo, mais interessado e admirado fico com as várias possíbilidades!**
+    
+<h3 align='center'>
+Estou me tornando um Analista de Dados. Entrei nesse mundo da tecnologia por acaso. Porém, quanto mais eu estudo e aprendo, mais interessado e admirado fico com as várias possíbilidades!
+</h3>
 
 <div align='center'>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" target="_blank"></a>
@@ -23,4 +28,6 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" target="_blank"></a>
 </div>
 
-![snake animation](https://github.com/Wesley-CBarbosa/Wesley-CBarbosa/raw/refs/heads/output/github-contribution-grid-snake-dark.svg)
+<p align='center'>
+    <img src='https://github.com/Wesley-CBarbosa/Wesley-CBarbosa/raw/refs/heads/output/github-contribution-grid-snake-dark.svg' alt='Snake animation' />
+</p>
