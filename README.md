@@ -14,7 +14,7 @@ Me chamo Wesley!
 
 <div align='center'>
   <a href = 'https://github.com/Wesley-CBarbosa'>
-  <img height='190em' src='https://github-readme-stats.vercel.app/api?username=wesley-cbarbosa&show_icons=true&theme=vue&include_all_commits=true&count_private=true'/>
+  <img height='190em' src='https://github-readme-stats.vercel.app/api?username=wesley-cbarbosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true'/>
 </div>
     
 <h3 align='center'>
