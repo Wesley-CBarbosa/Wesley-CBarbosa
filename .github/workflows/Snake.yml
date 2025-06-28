@@ -25,10 +25,10 @@ jobs:
           github_user_name: wesley-cbarbosa
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?   
-          color_snake: '0000FF'
+          color_snake: '#0000FF'
           color_dots: '#39FF14,#00CED1,#9400D3,#FFD700'
           color_empty: '#1a1a1a'
-          color_background: '#000000'
+          color_background: 'dark'
           
       - name: Push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
