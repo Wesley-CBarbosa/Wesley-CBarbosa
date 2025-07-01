@@ -19,7 +19,7 @@ Me chamo Wesley!
 </div>
     
 <h3 align='center'>
-Estou me tornando um Analista de Dados. Entrei nesse mundo da tecnologia por acaso. Porém, quanto mais eu estudo e aprendo, mais interessado e admirado fico com as várias possíbilidades!
+Estou me tornando um Analista de Dados. Entrei nesse mundo da tecnologia por acaso. Porém, quanto mais eu estudo e aprendo, mais interessado e admirado fico com as várias possibilidades!
 </h3>
 
 <div align='center'>
